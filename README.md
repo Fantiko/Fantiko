@@ -1,7 +1,7 @@
 <!--APRESENTATION-->
 <div>
     <h2 align="center">Hi there, i'm K.stefan👋</h2>
-    <h3>""</h3>
+    <h3></h3>
   </div>
   
   - 🔭 I’m currently working on build a career
