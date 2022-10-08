@@ -11,11 +11,10 @@
     - 🌱 I’m currently learning Java
     - 📫 How to reach me: kaiostefan@gmail.com
     - 😄 Pronouns: he/him
-    <div>
-    ![](https://komarev.com/ghpvc/?username=Fantiko)
-    </div>
+ 
   <div style="display: inline_block">
     <div>
+    ![](https://komarev.com/ghpvc/?username=Fantiko)
       <h3>LANGUAGES AND TOOLS:</h3>
     </div>
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
