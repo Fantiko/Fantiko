@@ -11,9 +11,9 @@
     - 🌱 I’m currently learning Java
     - 📫 How to reach me: kaiostefan@gmail.com
     - 😄 Pronouns: he/him
-    
+    <div>
     ![](https://komarev.com/ghpvc/?username=Fantiko)
-  
+    </div>
   <div style="display: inline_block">
     <div>
       <h3>LANGUAGES AND TOOLS:</h3>
