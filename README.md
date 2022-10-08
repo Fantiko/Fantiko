@@ -1,6 +1,6 @@
 <!--APRESENTATION-->
 
-![](https://komarev.com/ghpvc/?username=Fantiko)
+
 
 <div>
     <h2 align="center">Hi there, i'm K.stefan👋</h2>
@@ -39,5 +39,7 @@
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Fantiko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantiko&layout=compact&langs_count=16&theme=dracula"/>
     </a>
+    ![](https://komarev.com/ghpvc/?username=Fantiko)
   </div>
+  
   
