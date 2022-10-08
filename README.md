@@ -1,6 +1,6 @@
 <!--APRESENTATION-->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Fantiko&color=yellow" alt="Profile views" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Fantiko&color=blue" alt="Profile views" /> </p>
 
 <div>
     <h2 align="center">Hi there, i'm K.stefan👋</h2>
